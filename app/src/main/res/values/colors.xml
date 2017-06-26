@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5FAECA</color>
+    <color name="colorPrimaryDark">#468297</color>
+    <color name="colorAccent">#DFE2E5</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="colorSecondaryText">#468297</color>
+    <color name="colorTextFocus">@color/colorPrimary</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <!-- TODO: Color para fondo de splash -->
+    <color name="colorWallPaper">#F0F3F6</color>
+    <!-- TODO: Color letra -->
+    <color name="colorWordFocus">#5FAECA</color>
+    <!-- TODO: Color White -->
+    <color name="colorWhite">#FFFFFF</color>
+</resources>
